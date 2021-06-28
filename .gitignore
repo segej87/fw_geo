@@ -1,0 +1,5 @@
+*.gif
+.Rhistory
+__pycache__/*
+.idea/*
+*.png

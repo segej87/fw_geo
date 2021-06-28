@@ -1,0 +1,72 @@
+Precinct,Address,Address.Valid,Clean.Address,Lat,Long
+100th Precinct,"92-24 Rockaway Beach Blvd, Queens, NY 11693",True,"9224 Rockaway Beach Blvd, Rockaway Beach, NY 11693, USA",40.586248,-73.816477
+102nd Precinct,"87-34 118th St, Richmond Hill, NY 11418",True,"87-34 118th St, Richmond Hill, NY 11418, USA",40.6987209,-73.8315671
+104th Precinct,"6402 Catalpa Ave, Ridgewood, NY 11385",True,"64-02 Catalpa Ave, Flushing, NY 11385, USA",40.704237,-73.8935489
+106th Precinct,"103-53 10st St, Ozone Park, NY 11417",True,"101-53 103rd St #10st, Jamaica, NY 11416, USA",40.684598,-73.8389399
+107th Precinct,"71-01 Parsons Blvd, Fresh Meadows, NY 11365",True,"71-01 Parsons Blvd, Fresh Meadows, NY 11365, USA",40.7299091,-73.8106143
+108th Precinct,"547 50th Ave, Long Island City, NY 11101",True,"547 50th Ave, Long Island City, NY 11101, USA",40.7430786,-73.9546953
+109th Precinct,"37-05 Union St, Flushing, NY 11354",True,"37-05 Union St, Flushing, NY 11354, USA",40.762361,-73.8270199
+10th Precinct,"230 W 20th St, New York, NY 10011",True,"230 W 20th St, New York, NY 10011, USA",40.7427116,-73.998643
+110th Precinct,"94-41 43rd Ave, Elmhurst, NY 11373",True,"94-41 43rd Avenue, Queens, NY 11373, USA",40.7452193,-73.8700695
+112th Precinct,"68-40 Austin St, Forest Hills, NY 11375",True,"68-40 Austin St, Queens, NY 11375, USA",40.7223401,-73.8515478
+113th Precinct,"167-02 Baisley Blvd, Jamaica, NY 11434",True,"167-02 Baisley Blvd, Jamaica, NY 11434, USA",40.6798013,-73.7756864
+114th Precinct,"34-16 Astoria Blvd S, Astoria, NY 11103",True,"34-16 Astoria Blvd S, Long Island City, NY 11103, USA",40.769299,-73.9152844
+115th Precinct,"92-15 Northern Blvd, Jackson Heights, NY 11372",True,"92-15 Northern Blvd, East Elmhurst, NY 11369, USA",40.7568746,-73.8754903
+120th Precinct,"78 Richmond Terrace, Staten Island, NY 10301",True,"78 Richmond Terrace, Staten Island, NY 10301, USA",40.6446553,-74.0774152
+122nd Precinct,"2320 Hylan Blvd, Staten Island, NY 10306",True,"2320 Hylan Blvd, Staten Island, NY 10306, USA",40.5741179,-74.1055058
+13th Precinct,"230 E 21st St, New York, NY 10010",True,"230 E 21st St, New York, NY 10010, USA",40.7367881,-73.9829079
+17th Precinct,"167 E 51st St, New York, NY 10022",True,"167 E 51st St, New York, NY 10022, USA",40.7567621,-73.9707858
+19th Precinct,"153 E 67th St, New York, NY 10065",True,"153 E 67th St, New York, NY 10065, USA",40.7671478,-73.9637748
+1st Precinct,"16 Ericsson Pl, New York, NY 10013",True,"16 Ericsson Pl, New York, NY 10013, USA",40.7202702,-74.0071976
+22nd Precinct,"100 86th St Transverse, New York, NY 10128",True,"100 86th St Transverse, New York, NY 10024, USA",40.7831959,-73.9643933
+24th Precinct,"151 W 100th St, New York, NY 10025",True,"151 W 100th St, New York, NY 10025, USA",40.796506,-73.9673459
+25th Precinct,"120 E 119th St, New York, NY 10035",True,"120 E 119th St, New York, NY 10035, USA",40.8006969,-73.9411026
+26th Precinct,"520 W 126th St, New York, NY 10027",True,"520 W 126th St, New York, NY 10027, USA",40.8147406,-73.9564059
+28th Precinct,"2271-89 Frederick Douglass Blvd, New York, NY 10027",True,"2271 Frederick Douglass Blvd, New York, NY 10027, USA",40.8088535,-73.952629
+30th Precinct,"451 W 151st St, New York, NY 10031",True,"451 W 151st St, New York, NY 10031, USA",40.8287571,-73.9436513
+32nd Precinct,"250 W 135th St, New York, NY 10030",True,"250 W 135th St, New York, NY 10030, USA",40.8157306,-73.9453589
+34th Precinct,"4295 Broadway, New York, NY 10033",True,"4295 Broadway, New York, NY 10033, USA",40.8515464,-73.9353851
+41st Precinct,"1035 Longwood Ave, The Bronx, NY 10459",True,"1035 Longwood Ave, The Bronx, NY 10459, USA",40.8163245,-73.8956563
+42nd Precinct,"830 Washington Ave, The Bronx, NY 10451",True,"830 Washington Ave, The Bronx, NY 10451, USA",40.8225567,-73.9113843
+43rd Precinct,"900 Fteley Ave, The Bronx, NY 10473",True,"900 Fteley Ave, The Bronx, NY 10473, USA",40.8230714,-73.8697939
+44th Precinct,"2 E 169th St, The Bronx, NY 10452",True,"2 E 169th St, The Bronx, NY 10452, USA",40.8372041,-73.9199079
+45th Precinct,"2877 Barkley Ave, The Bronk, NY 10465",True,"2877 Barkley Ave, The Bronx, NY 10465, USA",40.8308706,-73.8273359
+46th Precinct,"2120 Ryer Ave, the Bronx, NY 10457",True,"2120 Ryer Ave, The Bronx, NY 10457, USA",40.8539879,-73.9001119
+47th Precinct,"4111 Laconia Ave, The Bronx, NY 10466",True,"4111 Laconia Ave, The Bronx, NY 10466, USA",40.8875602,-73.8475441
+48th Precinct,"450 Cross Bronx Expy, The Bronx, NY 10457",True,"450 Cross Bronx Expy, The Bronx, NY 10457, USA",40.8439231,-73.9004465
+49th Precinct,"2121 Eastchester Rd, The Bronx, NY 10461",True,"2121 Eastchester Rd, The Bronx, NY 10461, USA",40.8560259,-73.8444211
+5th Precinct,"19 Elizabeth St, New York, NY 10013",True,"19 Elizabeth St, New York, NY 10013, USA",40.7161942,-73.9974699
+60th Precinct,"2951 W 8th St, Brooklyn, NY 11224",True,"2951 W 8th St, Brooklyn, NY 11224, USA",40.576552,-73.9761158
+61st Precinct,"2575 Coney Island Ave, Brooklyn NY 11223",True,"2575 Coney Island Ave, Brooklyn, NY 11223, USA",40.5941521,-73.9605042
+62nd Precinct,"1925 Bath Ave, Brooklyn, NY 11214",True,"1925 Bath Ave, Brooklyn, NY 11214, USA",40.6025018,-74.0031348
+63rd Precinct,"1844 Brooklyn Ave, Brooklyn, NY 11210",True,"1844 Brooklyn Ave, Brooklyn, NY 11210, USA",40.627926,-73.941616
+66th Precinct,"5822 16th Ave, Brooklyn, NY 11204",True,"5822 16th Ave, Brooklyn, NY 11204, USA",40.6257117,-73.9913846
+67th Precinct,"2820 Snyder Ave, Brooklyn, NY 11226",True,"2820 Snyder Ave, Brooklyn, NY 11226, USA",40.6486648,-73.9502641
+68th Precinct,"333 65th St, Brooklyn NY 11220",True,"333 65th St, Brooklyn, NY 11220, USA",40.6389811,-74.0226226
+69th Precinct,"9720 Foster Ave, Brooklyn, NY 11236",True,"9720 Foster Ave, Brooklyn, NY 11236, USA",40.648479,-73.9049807
+6th Precinct,"233 W 10th St, New York, NY 10014",True,"233 W 10th St, New York, NY 10014, USA",40.7342332,-74.0054532
+70th Precinct,"154 Lawrence Ave, Brooklyn NY 11230",True,"154 Lawrence Ave, Brooklyn, NY 11230, USA",40.6303373,-73.9737354
+71st Precinct,"421 Empire Blvd, Brooklyn, NY 11225",True,"421 Empire Blvd, Brooklyn, NY 11225, USA",40.6645922,-73.9478302
+72nd Precinct,"830 4th Ave, Brooklyn, NY 11232",True,"830 4th Ave, Brooklyn, NY 11232, USA",40.6583216,-74.0008623
+73rd Precinct,"1470 E New York Ave, Brooklyn, NY 11212",True,"1470 E New York Ave, Brooklyn, NY 11212, USA",40.6707987,-73.9135238
+75th Precinct,"484 Liberty Ave, Brooklyn, NY 11207",True,"484 Liberty Ave, Brooklyn, NY 11207, USA",40.6749315,-73.8920096
+75th Precinct,"1000 Sutter Ave, Brooklyn, NY 11208",True,"1000 Sutter Ave, Brooklyn, NY 11208, USA",40.6713074,-73.8815815
+76th Precinct,"191 Union St, Brooklyn, NY 11231",True,"191 Union St, Brooklyn, NY 11231, USA",40.6838295,-74.0002227
+77th Precinct,"127 Utica Ave, Brooklyn, NY 11213",True,"127 Utica Ave, Brooklyn, NY 11213, USA",40.6746488,-73.9302415
+78th Precinct,"65 6th Ave, Brooklyn, NY 11217",True,"65 6th Ave, Brooklyn, NY 11217, USA",40.6805766,-73.9741977
+79th Precinct,"263 Tompkins Ave, Brooklyn, NY 11216",True,"263 Tompkins Ave, Brooklyn, NY 11216, USA",40.6888144,-73.9448433
+7th Precinct,"19 ½ Pitt St, New York, NY 10002",True,"19 Pitt St, New York, NY 10002, USA",40.7160742,-73.9837635
+83rd Precinct,"480 Knickerbocker Ave, Brooklyn, NY 11237",True,"480 Knickerbocker Ave, Brooklyn, NY 11237, USA",40.6981474,-73.9178411
+84th Precinct,"301 Gold St, Brooklyn, NY 11201",True,"301 Gold St, Brooklyn, NY 11201, USA",40.6955481,-73.9829169
+88th Precinct,"298 Classon Ave, Brooklyn, NY 11205",True,"298 Classon Ave, Brooklyn, NY 11205, USA",40.6900709,-73.9605316
+90th Precinct,"211 Union Ave, Brooklyn NY 11211",True,"211 Union Ave, Brooklyn, NY 11211, USA",40.706273,-73.9507692
+94th Precinct,"100 Meserole Ave, Brooklyn, NY 11222",True,"100 Meserole Ave, Brooklyn, NY 11222, USA",40.7266755,-73.9532951
+9th Precinct,"321 E 5th St, New York NY 10003",True,"321 E 5th St, New York, NY 10003, USA",40.7265591,-73.9878238
+Booking,"120 Schermerhorn St, Brooklyn, NY 11201",True,"120 Schermerhorn St, Brooklyn, NY 11201, USA",40.6896262,-73.9888393
+Headquarters,"1 Police Plaza Path, New York, NY 10038",True,"1 Police Plaza, 1 Police Plaza Path, New York, NY 10038, USA",40.7120619,-74.0023853
+Midtown Precinct North,"306 W 54th St, New York, NY 10019",True,"306 W 54th St, New York, NY 10019, USA",40.7649517,-73.9851379
+Midtown Precinct South,"357 W 35th St, New York, NY 10001",True,"357 W 35th St, New York, NY 10001, USA",40.7538904,-73.9948941
+None,"2860 W 23rd St, Brooklyn, NY 11224",True,"2860 W 23rd St, Brooklyn, NY 11224, USA",40.5763051,-73.9903977
+None,"2 Lafayette St, New York, NY 10007",True,"2 Lafayette St, New York, NY 10007, USA",40.7139848,-74.0036309
+Police Service Area 2,"560 Sutter Ave, Brooklyn NY 11207",True,"560 Sutter Ave, Brooklyn, NY 11207, USA",40.6687274,-73.8984583
+Service Area 4,"130 Loisaida Ave, New York, NY 10009",True,"130 Loisaida Ave, New York, NY 10009, USA",40.7247456,-73.9781554
